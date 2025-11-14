@@ -20,7 +20,7 @@ The group is presently growing! Feel free to reach out if you're interested in p
 
 # <a id="research"></a> Research
 
-Our group investigates:
+Our group merges statistical analysis of observational datasets with complex and simple climate models to investigate:
 
 <!-- === Research Item 1 (image left) === -->
 <div style="display:flex; align-items:center; margin:24px 0;">
@@ -28,7 +28,10 @@ Our group investigates:
   <div markdown="1">
 
 ### **Hydroclimate change**
-How precipitation intensity and intermittency change in a warming climate.
+- How the intensity and intermittency of precipitation events are changing as the climate warms
+- The physics underlying these changes
+- Whether climate models simulate these processes accurately.
+
 
   </div>
 </div>
@@ -39,7 +42,10 @@ How precipitation intensity and intermittency change in a warming climate.
   <div markdown="1">
 
 ### **Land–atmosphere water and energy exchange**
-How warming alters what happens to precipitation after it hits the ground.
+- How warming alters what happens to precipitation after it hits the ground.
+- How the relationship between drought and heat evolve under warming.
+- Whether vegetation buffers or amplifies the drying effect of warming. 
+
 
   </div>
 </div>
@@ -50,7 +56,8 @@ How warming alters what happens to precipitation after it hits the ground.
   <div markdown="1">
 
 ### **Climate impacts on agriculture and water resources**
-How changes in precipitation and evaporation characteristics affect crop yields and the continental water balance. 
+ - How changes in precipitation and evaporation characteristics affect the continental water balance. 
+ - How much the crop benefits higher carbon dioxide might offset the impacts of more extreme heat and drought.
 
   </div>
 </div>
