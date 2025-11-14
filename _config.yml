@@ -1,9 +1,10 @@
 title: "Climate Change & Impacts Lab"
 description: "Research group studying climate–land–water interactions in a warming world."
 url: "https://coreylesk.github.io"
-theme: minimal-mistakes-jekyll
 
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+plugins:
+  - jekyll-remote-theme # only needed if using remote_theme
 
 # Build settings
 plugins:
