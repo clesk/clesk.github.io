@@ -43,7 +43,8 @@ Corey is an Assistant Professor studying climate–land–water interactions and
 ---
 
 ### **Students & Postdocs — We’re recruiting!**
-If you’re interested in joining the group as a Masters or PhD student, reach out!
+If you’re interested in joining the group, please reach out!
+Positions are available undergraduate research assistants, 
 </div>
 
 ---
