@@ -1,11 +1,11 @@
 ---
-title: "Climate Change & Impacts @ UQAM\nDepartment of Earth and atmospheric science"
+title: "Climate Change & Impacts @ UQAM"
 layout: splash
 permalink: /
 header:
   overlay_image: /images/banner.jpg
   overlay_filter: 0.45
-  caption: "Under construction"
+  caption: ""
 ---
 
 <a id="home"></a>
@@ -15,8 +15,8 @@ We study how climate change reshapes the movement of water between land and atmo
  
 
 ---
-<div style="background-color:#f4f4f4; padding: 20px;">
 # <a id="research"></a> Research
+<div style="background-color:#f4f4f4; padding: 20px;">
 
 Our group investigates:
 
