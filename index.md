@@ -15,7 +15,7 @@ We study how climate change reshapes the movement of water between land and atmo
  
 
 ---
-
+<div style="background-color:#f4f4f4; padding: 20px;">
 # <a id="research"></a> Research
 
 Our group investigates:
@@ -31,7 +31,7 @@ How water-cycle changes affect crop yields and continental water stocks.
 
 ### **• Environmental data science + modeling**
 We combine global remote sensing, flux tower data, statistical models, and climate model ensembles.
-
+</div>
 ---
 
 # <a id="people"></a> People
