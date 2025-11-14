@@ -60,7 +60,7 @@ Our group merges statistical analysis of observational datasets with complex and
   </div>
 </div>
 
-
+</div>
 ---
 
 # <a id="people"></a> People
