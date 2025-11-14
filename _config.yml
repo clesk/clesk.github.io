@@ -1,0 +1,31 @@
+title: "Climate Change & Impacts Lab"
+description: "Research group studying climate–land–water interactions in a warming world."
+url: "https://coreylesk.github.io"
+theme: minimal-mistakes-jekyll
+
+remote_theme: "mmistakes/minimal-mistakes@latest"
+
+# Build settings
+plugins:
+  - jekyll-include-cache
+
+# Author info (optional)
+author:
+  name: "Corey Lesk"
+  avatar: "/images/corey.jpg"
+  bio: "Assistant Professor researching climate–land–water interactions."
+  email: "lesk.corey [at] uqam [dot] ca"
+
+# Navigation
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+navigation: navigation.yml
