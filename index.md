@@ -15,7 +15,6 @@ We study how climate change interacts with the terrestrial systems that underpin
  
 The group is presently growing! Feel free to reach out if you're interested in pursuing your Masters or PhD in the group.
 
----
 <div style="background-color:#e7f3ff; padding: 24px; border-radius: 8px;" markdown="1">
 
 # <a id="research"></a> Research
@@ -61,7 +60,6 @@ Our group merges statistical analysis of observational datasets with complex and
 </div>
 
 </div>
----
 
 # <a id="people"></a> People
 <div style="background-color:#e6f7f5; padding: 20px;" markdown="1">
@@ -74,7 +72,9 @@ Corey is an Assistant Professor studying climate–land–water interactions and
 
 ### **Students & Postdocs — We’re recruiting!**
 If you’re interested in joining the group, please reach out!
-Positions are available undergraduate research assistants, 
+Positions are available for undergraduate research assistants, Masters and PhD students.
+Various funding opportunities exist for postdoctoral fellowships. 
+
 </div>
 
 ---
@@ -89,7 +89,7 @@ Selected publications (or link to Google Scholar):
 
 Or link directly:
 
-➡️ **[Google Scholar](https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao)**
+➡️ **
 </div>
 
 
@@ -104,6 +104,7 @@ Université du Québec à Montréal
 Pavillon Président-Kennedy
 Montréal, QC
 
-📧 Email: <lesk.corey@uqam.ca>  
-🌐 GitHub: [github.com/coreylesk](https://github.com/clesk)  
+Email: <lesk.corey@uqam.ca>  
+Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao)**
+GitHub: [github.com/coreylesk](https://github.com/clesk)  
 </div>
