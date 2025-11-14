@@ -24,22 +24,38 @@ Our group investigates:
 
 <!-- === Research Item 1 (image left) === -->
 <div style="display:flex; align-items:center; margin:24px 0;">
-  <img src="/assets/images/pint-model.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
+  <img src="/images/pint-model.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
   <div markdown="1">
 
 ### **Hydroclimate change**
-How precipitation intensity, intermittency, and storm structure change in a warming climate—and what these shifts imply for droughts, floods, and the delivery of water to land.
+How precipitation intensity and intermittency change in a warming climate.
 
   </div>
 </div>
 
 <!-- === Research Item 2 (image right) === -->
 <div style="display:flex; align-items:center; margin:24px 0; flex-direction:row-reverse;">
-  <img src="/assets/images/tws-effect-map.jpg" style="width:200px; border-radius:8px; margin-left:24px;">
+  <img src="/images/tws-effect-map.jpg" style="width:200px; border-radius:8px; margin-left:24px;">
   <div markdown="1">
 
 ### **Land–atmosphere water and energy exchange**
-How warming alters the fate of precipitation aft
+How warming alters what happens to precipitation after it hits the ground.
+
+  </div>
+</div>
+
+<!-- === Research Item 3 (image left) === -->
+<div style="display:flex; align-items:center; margin:24px 0;">
+  <img src="/images/coupling_crops.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
+  <div markdown="1">
+
+### **Climate impacts on agriculture and water resources**
+How changes in precipitation and evaporation characteristics affect crop yields and the continental water balance. 
+
+  </div>
+</div>
+
+</div>
 
 ---
 
