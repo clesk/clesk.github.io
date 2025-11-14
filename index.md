@@ -16,21 +16,31 @@ We study how climate change interacts with the terrestrial systems that underpin
 The group is presently growing! Feel free to reach out if you're interested in pursuing your Masters or PhD in the group.
 
 ---
+<div style="background-color:#e7f3ff; padding: 24px; border-radius: 8px;" markdown="1">
+
 # <a id="research"></a> Research
-<div style="background-color:#e7f3ff; padding: 20px;" markdown="1">
 
 Our group investigates:
 
-### **• Hydroclimate change**
-How precipitation intensity and intermittency change in a warming climate.
+<!-- === Research Item 1 (image left) === -->
+<div style="display:flex; align-items:center; margin:24px 0;">
+  <img src="/assets/images/pint-model.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
+  <div markdown="1">
 
-### **• Land–atmosphere water and energy exchange**
-How warming alters what happens to precipitation after it falls.
+### **Hydroclimate change**
+How precipitation intensity, intermittency, and storm structure change in a warming climate—and what these shifts imply for droughts, floods, and the delivery of water to land.
 
-### **• Climate impacts on agriculture and water resources**
-How water-cycle changes affect crop yields and the continental water balance.
-
+  </div>
 </div>
+
+<!-- === Research Item 2 (image right) === -->
+<div style="display:flex; align-items:center; margin:24px 0; flex-direction:row-reverse;">
+  <img src="/assets/images/tws-effect-map.jpg" style="width:200px; border-radius:8px; margin-left:24px;">
+  <div markdown="1">
+
+### **Land–atmosphere water and energy exchange**
+How warming alters the fate of precipitation aft
+
 ---
 
 # <a id="people"></a> People
@@ -50,7 +60,7 @@ Positions are available undergraduate research assistants,
 ---
 
 # <a id="publications"></a> Publications
-<div style="background-color:#e7f3ff; padding: 20px;" markdown="1">
+<div style="background-color:#f2effa; padding: 20px;" markdown="1">
 
 Selected publications (or link to Google Scholar):
 
