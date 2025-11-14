@@ -23,46 +23,45 @@ The group is presently growing! Feel free to reach out if you're interested in p
 Our group merges statistical analysis of observational datasets with complex and simple climate models to investigate:
 
 <!-- === Research Item 1 (image left) === -->
-<div style="display:flex; align-items:center; margin:24px 0;">
+<div style="display:flex; align-items:flex-start; margin:24px 0;">
   <img src="/images/pint-model.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
   <div markdown="1">
 
 ### **Hydroclimate change**
-- How the intensity and intermittency of precipitation events are changing as the climate warms
-- The physics underlying these changes
-- Whether climate models simulate these processes accurately.
-
+- How the intensity and intermittency of precipitation events are changing as the climate warms  
+- The physics underlying these changes  
+- Whether climate models simulate these processes accurately  
 
   </div>
 </div>
 
 <!-- === Research Item 2 (image right) === -->
-<div style="display:flex; align-items:center; margin:24px 0; flex-direction:row-reverse;">
+<div style="display:flex; align-items:flex-start; margin:24px 0; flex-direction:row-reverse;">
   <img src="/images/tws-effect-map.jpg" style="width:200px; border-radius:8px; margin-left:24px;">
   <div markdown="1">
 
 ### **Land–atmosphere water and energy exchange**
-- How warming alters what happens to precipitation after it hits the ground.
-- How the relationship between drought and heat evolve under warming.
-- Whether vegetation buffers or amplifies the drying effect of warming. 
-
+- How warming alters what happens to precipitation after it reaches the land surface  
+- How the relationship between drought and heat evolves under warming  
+- Whether vegetation buffers or amplifies the drying effect of warming  
 
   </div>
 </div>
 
 <!-- === Research Item 3 (image left) === -->
-<div style="display:flex; align-items:center; margin:24px 0;">
+<div style="display:flex; align-items:flex-start; margin:24px 0;">
   <img src="/images/coupling_crops.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
   <div markdown="1">
 
 ### **Climate impacts on agriculture and water resources**
- - How changes in precipitation and evaporation characteristics affect the continental water balance. 
- - How much the crop benefits higher carbon dioxide might offset the impacts of more extreme heat and drought.
+- How changes in precipitation and evaporation characteristics affect the continental water balance  
+- Whether crop carbon-fertilization benefits might offset the impacts of extreme heat and drought  
 
   </div>
 </div>
 
 </div>
+
 
 ---
 
