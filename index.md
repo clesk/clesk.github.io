@@ -29,8 +29,6 @@ How warming alters what happens to precipitation after it falls.
 ### **• Climate impacts on vegetation and water resources**
 How water-cycle changes affect crop yields and continental water stocks.
 
-### **• Environmental data science + modeling**
-We combine global remote sensing, flux tower data, statistical models, and climate model ensembles.
 </div>
 ---
 
