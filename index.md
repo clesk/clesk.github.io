@@ -1,11 +1,11 @@
 ---
-title: "Lesk Climate & Water Systems Lab"
+title: "Climate Change & Impacts Lab"
 layout: splash
 permalink: /
 header:
   overlay_image: /images/banner.jpg
   overlay_filter: 0.45
-  caption: "Lesk Climate & Water Systems Lab"
+  caption: "Under construction"
 ---
 
 <a id="home"></a>
@@ -13,7 +13,7 @@ header:
 Welcome to the Lesk Climate & Water Systems Lab.  
 We study how climate change reshapes the movement of water between land and atmosphere—and how those shifts affect ecosystems, agriculture, and water resources.
  
- 
+
 ---
 
 # <a id="research"></a> Research
