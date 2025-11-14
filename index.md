@@ -1,5 +1,5 @@
 ---
-title: "Climate Change & Impacts Lab"
+title: "Climate Change & Impacts @ UQAM\nDepartment of Earth and atmospheric science"
 layout: splash
 permalink: /
 header:
@@ -10,8 +10,8 @@ header:
 
 <a id="home"></a>
 
-Welcome to the Lesk Climate & Water Systems Lab.  
-We study how climate change reshapes the movement of water between land and atmosphere—and how those shifts affect ecosystems, agriculture, and water resources.
+Welcome to the Climate Change & Impacts Lab.  
+We study how climate change reshapes the movement of water between land and atmosphere—and how those shifts affect agriculture and water resources.
  
 
 ---
@@ -20,19 +20,17 @@ We study how climate change reshapes the movement of water between land and atmo
 
 Our group investigates:
 
+### **• Hydroclimate change**
+How precipitation intensity and intermittency change in a warming climate.
+
 ### **• Land–atmosphere water and energy exchange**
-We analyze how warming alters precipitation, evaporation, soil moisture, and climate extremes.
+How warming alters what happens to precipitation after it falls.
 
-### **• Hydrologic responses to climate change**
-Understanding how shifts in rainfall timing and intensity impact drought, productivity, and water supply.
-
-### **• Climate impacts on ecosystems and agriculture**
-How climate variability cascades into ecosystem stress and crop losses.
+### **• Climate impacts on vegetation and water resources**
+How water-cycle changes affect crop yields and continental water stocks.
 
 ### **• Environmental data science + modeling**
 We combine global remote sensing, flux tower data, statistical models, and climate model ensembles.
-
-We welcome collaborations.
 
 ---
 
@@ -45,7 +43,7 @@ Corey is an Assistant Professor studying climate–land–water interactions and
 ---
 
 ### **Students & Postdocs — We’re recruiting!**
-If you’re interested in joining the group, reach out.
+If you’re interested in joining the group as a Masters or PhD student, reach out!
 
 ---
 
@@ -54,19 +52,21 @@ If you’re interested in joining the group, reach out.
 Selected publications (or link to Google Scholar):
 
 - **Lesk C.**, *et al.* Publication title here. *Journal*, year.
-- Add more…
+
 
 Or link directly:
 
-➡️ **[Google Scholar](YOUR_LINK)**
+➡️ **[Google Scholar](https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao)**
 
 ---
 
 # <a id="contact"></a> Contact
 
 **Corey Lesk**  
-YOUR INSTITUTION  
-YOUR ADDRESS  
+Department of Earth and atmospheric science
+Université du Québec à Montréal
+Pavillon Président-Kennedy
+Montréal, QC
 
-📧 Email: <YOUR_EMAIL>  
-🌐 GitHub: [github.com/coreylesk](https://github.com/coreylesk)  
+📧 Email: <lesk.corey@uqam.ca>  
+🌐 GitHub: [github.com/coreylesk](https://github.com/clesk)  

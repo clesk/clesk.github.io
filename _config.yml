@@ -30,3 +30,9 @@ defaults:
       layout: single
 
 navigation: navigation.yml
+
+header:
+  font: "Open Sans"  # Change this to the font you prefer (e.g., "Open Sans", "Lora", etc.)
+
+body:
+  font: "Open Sans"  # Change this to your desired body font
