@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "/#home"
+  - title: "Research"
+    url: "/#research"
+  - title: "People"
+    url: "/#people"
+  - title: "Publications"
+    url: "/#publications"
+  - title: "Contact"
+    url: "/#contact"

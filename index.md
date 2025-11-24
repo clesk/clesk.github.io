@@ -6,7 +6,10 @@ header:
   overlay_image: /images/banner.jpg
   overlay_filter: 0.45
   caption: ""
+  nav: true
 ---
+
+<a id="home"></a>
 
 # Climate Change & Impacts Lab
 
@@ -17,18 +20,25 @@ The group is presently growing! Reach out if you're interested in pursuing your 
 
 ---
 
-<!-- ========== RESEARCH SECTION ========== -->
+<br>
 
-<div style="background:#f5f9ff; padding: 32px 24px; border-radius: 8px; margin-bottom: 48px;">
+<!-- ========================================================= -->
+<!-- ====================== RESEARCH ========================= -->
+<!-- ========================================================= -->
+
+<a id="research"></a>
+<div style="background:#f5f9ff; padding: 36px 28px; border-radius: 8px; margin-bottom: 48px;">
 
 # Research
 
 Our group merges statistical analysis of observational datasets with complex and simple climate models to investigate:
 
-<!-- ---- Item 1 ---- -->
+<br>
 
-<div style="display:flex; gap:24px; align-items:flex-start; margin:40px 0;">
-  <img src="/images/pint-model.jpg" style="width:230px; border-radius:6px; flex-shrink:0;">
+<!-- -------- Item 1: Hydroclimate -------- -->
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin:36px 0;">
+  <img src="/images/pint-model.jpg" style="width:260px; border-radius:6px; flex-shrink:0;">
   <div>
     <h3 style="margin-top:0;">Hydroclimate change</h3>
     <ul>
@@ -39,10 +49,10 @@ Our group merges statistical analysis of observational datasets with complex and
   </div>
 </div>
 
-<!-- ---- Item 2 ---- -->
+<!-- -------- Item 2: Land-Atmosphere -------- -->
 
-<div style="display:flex; gap:24px; align-items:flex-start; margin:40px 0; flex-direction:row-reverse;">
-  <img src="/images/tws-effect-map.jpg" style="width:230px; border-radius:6px; flex-shrink:0;">
+<div style="display:flex; gap:28px; align-items:flex-start; margin:36px 0; flex-direction:row-reverse;">
+  <img src="/images/tws-effect-map.jpg" style="width:260px; border-radius:6px; flex-shrink:0;">
   <div>
     <h3 style="margin-top:0;">Land–atmosphere water and energy exchange</h3>
     <ul>
@@ -53,10 +63,10 @@ Our group merges statistical analysis of observational datasets with complex and
   </div>
 </div>
 
-<!-- ---- Item 3 ---- -->
+<!-- -------- Item 3: Agriculture -------- -->
 
-<div style="display:flex; gap:24px; align-items:flex-start; margin:40px 0;">
-  <img src="/images/coupling_crops.jpg" style="width:230px; border-radius:6px; flex-shrink:0;">
+<div style="display:flex; gap:28px; align-items:flex-start; margin:36px 0;">
+  <img src="/images/coupling_crops.jpg" style="width:260px; border-radius:6px; flex-shrink:0;">
   <div>
     <h3 style="margin-top:0;">Climate impacts on agriculture and water resources</h3>
     <ul>
@@ -70,23 +80,28 @@ Our group merges statistical analysis of observational datasets with complex and
 
 ---
 
-<!-- ========== PEOPLE SECTION ========== -->
+<br>
 
-<div style="background:#f6fcfa; padding: 32px 24px; border-radius: 8px; margin-bottom:48px;">
+<!-- ========================================================= -->
+<!-- ======================= PEOPLE ========================== -->
+<!-- ========================================================= -->
+
+<a id="people"></a>
+<div style="background:#f6fcfa; padding: 36px 28px; border-radius: 8px; margin-bottom:48px;">
 
 # People
 
-<div style="display:flex; gap:24px; align-items:flex-start; margin-top:24px;">
-  <img src="/images/corey.jpg" style="width:180px; border-radius:6px; flex-shrink:0;">
+<br>
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:16px;">
+  <img src="/images/mugshot-spruce2.jpg" style="width:210px; border-radius:6px; flex-shrink:0;">
   <div>
     <h3 style="margin-top:0;">Corey Lesk — Principal Investigator</h3>
-    Corey is an Assistant Professor studying climate–land–water interactions and their ecological impacts.
-    His work combines remote sensing, hydrology, climate models, and statistical inference to understand
-    how global warming reshapes the water cycle.
+    Corey is an Assistant Professor in Earth and atmospheric science at UQAM
   </div>
 </div>
 
-<hr style="margin:28px 0;">
+<hr style="margin:36px 0;">
 
 ### Students & Postdocs — We’re recruiting!
 If you’re interested in joining the group, please reach out!  
@@ -97,9 +112,14 @@ Funding opportunities exist for postdoctoral fellowships.
 
 ---
 
-<!-- ========== PUBLICATIONS SECTION ========== -->
+<br>
 
-<div style="background:#faf8ff; padding: 32px 24px; border-radius: 8px; margin-bottom:48px;">
+<!-- ========================================================= -->
+<!-- ==================== PUBLICATIONS ======================= -->
+<!-- ========================================================= -->
+
+<a id="publications"></a>
+<div style="background:#faf8ff; padding: 36px 28px; border-radius: 8px; margin-bottom:48px;">
 
 # Publications
 
@@ -114,9 +134,14 @@ https://scholar.google.com/citations?user=2mx-kUcAAAAJ
 
 ---
 
-<!-- ========== CONTACT SECTION ========== -->
+<br>
 
-<div style="background:#f6fcfa; padding: 32px 24px; border-radius: 8px;">
+<!-- ========================================================= -->
+<!-- ======================= CONTACT ========================= -->
+<!-- ========================================================= -->
+
+<a id="contact"></a>
+<div style="background:#f6fcfa; padding: 36px 28px; border-radius: 8px;">
 
 # Contact
 
@@ -127,129 +152,6 @@ Pavillon Président-Kennedy
 Montréal, QC  
 
 Email: <lesk.corey@uqam.ca>  
-GitHub: https://github.com/clesk  
+GitHub: https://github.com/clesk
 
 </div>
-
-
-
-
-
-
-
-
-<!-- ---
-title: "Climate Change & Impacts Lab"
-layout: splash
-permalink: /
-header:
-  overlay_image: /images/banner.jpg
-  overlay_filter: 0.45
-  caption: ""
----
-
-<a id="home"></a>
-
-Welcome to the Climate Change & Impacts Lab.  
-We study how climate change interacts with the terrestrial systems that underpin human thriving.
-
-The group is presently growing! Feel free to reach out if you're interested in pursuing your Masters or PhD in the group.
-
-<div style="background-color:#e7f3ff; padding: 24px; border-radius: 8px;">
-
-# <a id="research"></a> Research
-
-<p>Our group merges statistical analysis of observational datasets with complex and simple climate models to investigate:</p>
-
-<!-- === Research Item 1 === -->
-<div style="display:flex; align-items:flex-start; margin:24px 0;">
-  <img src="/images/pint-model.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
-  <div>
-
-    <h3><strong>Hydroclimate change</strong></h3>
-    <ul>
-      <li>How the intensity and intermittency of precipitation events are changing as the climate warms</li>
-      <li>The physics underlying these changes</li>
-      <li>Whether climate models simulate these processes accurately</li>
-    </ul>
-
-  </div>
-</div>
-
-<!-- === Research Item 2 === -->
-<div style="display:flex; align-items:flex-start; margin:24px 0; flex-direction:row-reverse;">
-  <img src="/images/tws-effect-map.jpg" style="width:200px; border-radius:8px; margin-left:24px;">
-  <div>
-
-    <h3><strong>Land–atmosphere water and energy exchange</strong></h3>
-    <ul>
-      <li>How warming alters what happens to precipitation after it reaches the land surface</li>
-      <li>How the relationship between drought and heat evolves under warming</li>
-      <li>Whether vegetation buffers or amplifies the drying effect of warming</li>
-    </ul>
-
-  </div>
-</div>
-
-<!-- === Research Item 3 === -->
-<div style="display:flex; align-items:flex-start; margin:24px 0;">
-  <img src="/images/coupling_crops.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
-  <div>
-
-    <h3><strong>Climate impacts on agriculture and water resources</strong></h3>
-    <ul>
-      <li>How changes in precipitation and evaporation characteristics affect the continental water balance</li>
-      <li>Whether crop carbon-fertilization benefits might offset the impacts of extreme heat and drought</li>
-    </ul>
-
-  </div>
-</div>
-
-</div>
-
-
-# <a id="people"></a> People
-<div style="background-color:#e6f7f5; padding: 20px;" markdown="1">
-
-### **Corey Lesk — Principal Investigator**
-![](/images/corey.jpg){: .align-left .rounded .shadow width="180px"}
-Corey is an Assistant Professor studying climate–land–water interactions and their ecological impacts. His work combines remote sensing, hydrology, climate models, and statistical inference to understand how global warming reshapes the water cycle.
-
----
-
-### **Students & Postdocs — We’re recruiting!**
-If you’re interested in joining the group, please reach out!
-Positions are available for undergraduate research assistants, Masters and PhD students.
-Various funding opportunities exist for postdoctoral fellowships. 
-
-</div>
-
----
-
-# <a id="publications"></a> Publications
-<div style="background-color:#f2effa; padding: 20px;" markdown="1">
-
-Selected publications (or link to Google Scholar):
-
-- **Lesk C.**, *et al.* Publication title here. *Journal*, year.
-
-Or link directly:
-
-➡️ **
-
-</div>
-
----
-
-# <a id="contact"></a> Contact
-<div style="background-color:#e6f7f5; padding: 20px;" markdown="1">
-
-**Corey Lesk**  
-Department of Earth and atmospheric science  
-Université du Québec à Montréal  
-Pavillon Président-Kennedy  
-Montréal, QC  
-
-Email: <lesk.corey@uqam.ca>  
-Google Scholar: [Google Scholar](https://scholar.google)
- -->
