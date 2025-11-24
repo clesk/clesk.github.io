@@ -136,20 +136,25 @@ Selected publications:
 <!-- ========================================================= -->
 
 <a id="contact"></a>
-<div markdown="1" style="background:#f6fcfa; padding: 36px 28px; border-radius: 8px;">
+<div style="background-color:#e6f7f5; padding: 20px; display:flex; align-items:center; justify-content:space-between;">
 
-# Contact
+<!-- Contact Info -->
+<div>
+<strong>Corey Lesk</strong><br>
+Department of Earth and Atmospheric Science<br>
+Université du Québec à Montréal<br>
+Pavillon Président-Kennedy<br>
+Montréal, QC<br><br>
 
-**Corey Lesk**  
-Department of Earth and Atmospheric Science  
-Université du Québec à Montréal  
-Pavillon Président-Kennedy  
-Montréal, QC  
-
-Email: lesk[dot]corey[at]@uqam.ca 
-GitHub: [GitHub] (https://github.com/clesk)
-Scholar: [Scholar] (https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao)
+Email: lesk[dot]corey[at]uqam.ca<br>
+GitHub: <a href="https://github.com/clesk">GitHub</a><br>
+Scholar: <a href="https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao">Scholar</a>
+</div>
 
 <!-- Logo -->
-<img src="/images/uqam-logo.jpg" alt="Lab Logo" style="height:60px; vertical-align:middle;">
+<div>
+<img src="/images/logo.png" alt="Lab Logo" style="height:80px;">
 </div>
+
+</div>
+
