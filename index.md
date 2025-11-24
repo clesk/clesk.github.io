@@ -8,17 +8,15 @@ header:
   caption: ""
   nav: true
   overlay_header: true
-  overlay_height: 900px
+  overlay_height: 9000px
 ---
 
 <a id="home"></a>
 
-# Climate Change & Impacts Lab
-
-Welcome to the Climate Change & Impacts Lab.  
 We study how climate change interacts with the terrestrial systems that underpin human thriving.
 
-The group is presently growing! Reach out if you're interested in pursuing your Masters or PhD in the group.
+### Interested in climate impacts research?
+The group is presently growing! Reach out if you're interested in joining the group as a Bachelors, Masters or PhD student.
 
 ---
 
@@ -54,7 +52,7 @@ Our group merges statistical analysis of observational datasets with complex and
 <!-- -------- Item 2: Land-Atmosphere -------- -->
 
 <div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0; flex-direction:row-reverse;">
-  <img src="/images/tws-effect-map.jpg" style="width:360px; border-radius:6px; flex-shrink:0;">
+  <img src="/images/tws-effect-map.jpg" style="width:420px; border-radius:6px; flex-shrink:0;">
   <div markdown="1" style="max-width:480px;">
     <h3 style="margin-top:0;">Land–atmosphere water and energy exchange</h3>
     <ul>
