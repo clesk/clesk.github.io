@@ -8,7 +8,7 @@ header:
   caption: ""
   nav: true
   overlay_header: true
-  overlay_height: 600px
+  overlay_height: 900px
 ---
 
 <a id="home"></a>
@@ -39,9 +39,9 @@ Our group merges statistical analysis of observational datasets with complex and
 
 <!-- -------- Item 1: Hydroclimate -------- -->
 
-<div style="display:flex; gap:28px; align-items:flex-start; margin:36px 0;">
-  <img src="/images/pint-model.jpg" style="width:260px; border-radius:6px; flex-shrink:0;">
-  <div>
+<div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0;">
+  <img src="/images/pint-model.jpg" style="width:360px; border-radius:6px; flex-shrink:0;">
+  <div markdown="1" style="max-width:480px;">
     <h3 style="margin-top:0;">Hydroclimate change</h3>
     <ul>
       <li>How the intensity and intermittency of precipitation events are changing as the climate warms</li>
@@ -53,9 +53,9 @@ Our group merges statistical analysis of observational datasets with complex and
 
 <!-- -------- Item 2: Land-Atmosphere -------- -->
 
-<div style="display:flex; gap:28px; align-items:flex-start; margin:36px 0; flex-direction:row-reverse;">
-  <img src="/images/tws-effect-map.jpg" style="width:260px; border-radius:6px; flex-shrink:0;">
-  <div>
+<div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0; flex-direction:row-reverse;">
+  <img src="/images/tws-effect-map.jpg" style="width:360px; border-radius:6px; flex-shrink:0;">
+  <div markdown="1" style="max-width:480px;">
     <h3 style="margin-top:0;">Land–atmosphere water and energy exchange</h3>
     <ul>
       <li>How warming alters what happens to precipitation after it reaches the land surface</li>
@@ -67,9 +67,9 @@ Our group merges statistical analysis of observational datasets with complex and
 
 <!-- -------- Item 3: Agriculture -------- -->
 
-<div style="display:flex; gap:28px; align-items:flex-start; margin:36px 0;">
-  <img src="/images/coupling_crops.jpg" style="width:260px; border-radius:6px; flex-shrink:0;">
-  <div>
+<div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0;">
+  <img src="/images/coupling_crops.jpg" style="width:360px; border-radius:6px; flex-shrink:0;">
+  <div markdown="1" style="max-width:480px;">
     <h3 style="margin-top:0;">Climate impacts on agriculture and water resources</h3>
     <ul>
       <li>How changes in precipitation and evaporation characteristics affect the continental water balance</li>
