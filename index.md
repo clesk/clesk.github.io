@@ -4,16 +4,15 @@ layout: splash
 permalink: /
 header:
   overlay_image: /images/banner.jpg
-  overlay_filter: 0.6
-  caption: ""
+  overlay_filter: 0.3
+  caption: "caption"
   nav: true
-  overlay_header: true
-  overlay_container: "<div style='padding:1800px 0;'></div>"
+  classes: full-height
 ---
 
 <a id="home"></a>
 
-We study how climate change interacts with the terrestrial systems that underpin human thriving. 
+We study how climate change interacts with the terrestrial systems that underpin human thriving, like agriculture, vegetation and water resources. 
 
 ### Interested in climate impacts research?
 The group is presently growing! Reach out if you're interested in joining the group as a Bachelors, Masters or PhD student.
