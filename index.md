@@ -4,11 +4,11 @@ layout: splash
 permalink: /
 header:
   overlay_image: /images/banner.jpg
-  overlay_filter: 0.45
+  overlay_filter: 0.6
   caption: ""
   nav: true
   overlay_header: true
-  overlay_container: "<div style='padding:180px 0;'></div>"
+  overlay_container: "<div style='padding:1800px 0;'></div>"
 ---
 
 <a id="home"></a>
@@ -32,7 +32,6 @@ The group is presently growing! Reach out if you're interested in joining the gr
 
 Our group merges statistical analysis of observational datasets with complex and simple climate models to investigate:
 
-<br>
 
 <!-- -------- Item 1: Hydroclimate -------- -->
 
@@ -79,7 +78,6 @@ Our group merges statistical analysis of observational datasets with complex and
 
 ---
 
-<br>
 
 <!-- ========================================================= -->
 <!-- ======================= PEOPLE ========================== -->
@@ -90,7 +88,6 @@ Our group merges statistical analysis of observational datasets with complex and
 
 # People
 
-<br>
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:16px;">
   <img src="/images/mugshot-spruce2.jpg" style="width:210px; border-radius:6px; flex-shrink:0;">
@@ -111,8 +108,6 @@ Funding opportunities exist for postdoctoral fellowships.
 
 ---
 
-<br>
-
 <!-- ========================================================= -->
 <!-- ==================== PUBLICATIONS ======================= -->
 <!-- ========================================================= -->
@@ -132,8 +127,6 @@ https://scholar.google.com/citations?user=2mx-kUcAAAAJ
 </div>
 
 ---
-
-<br>
 
 <!-- ========================================================= -->
 <!-- ======================= CONTACT ========================= -->
