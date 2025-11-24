@@ -15,51 +15,58 @@ We study how climate change interacts with the terrestrial systems that underpin
 
 The group is presently growing! Feel free to reach out if you're interested in pursuing your Masters or PhD in the group.
 
-<div style="background-color:#e7f3ff; padding: 24px; border-radius: 8px;" markdown="1">
+<div style="background-color:#e7f3ff; padding: 24px; border-radius: 8px;">
 
 # <a id="research"></a> Research
 
-Our group merges statistical analysis of observational datasets with complex and simple climate models to investigate:
+<p>Our group merges statistical analysis of observational datasets with complex and simple climate models to investigate:</p>
 
-<!-- === Research Item 1 (image left) === -->
+<!-- === Research Item 1 === -->
 <div style="display:flex; align-items:flex-start; margin:24px 0;">
   <img src="/images/pint-model.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
-  <div markdown="1">
+  <div>
 
-### **Hydroclimate change**
-- How the intensity and intermittency of precipitation events are changing as the climate warms  
-- The physics underlying these changes  
-- Whether climate models simulate these processes accurately  
+    <h3><strong>Hydroclimate change</strong></h3>
+    <ul>
+      <li>How the intensity and intermittency of precipitation events are changing as the climate warms</li>
+      <li>The physics underlying these changes</li>
+      <li>Whether climate models simulate these processes accurately</li>
+    </ul>
 
   </div>
 </div>
 
-<!-- === Research Item 2 (image right) === -->
+<!-- === Research Item 2 === -->
 <div style="display:flex; align-items:flex-start; margin:24px 0; flex-direction:row-reverse;">
   <img src="/images/tws-effect-map.jpg" style="width:200px; border-radius:8px; margin-left:24px;">
-  <div markdown="1">
+  <div>
 
-### **Land–atmosphere water and energy exchange**
-- How warming alters what happens to precipitation after it reaches the land surface  
-- How the relationship between drought and heat evolves under warming  
-- Whether vegetation buffers or amplifies the drying effect of warming  
+    <h3><strong>Land–atmosphere water and energy exchange</strong></h3>
+    <ul>
+      <li>How warming alters what happens to precipitation after it reaches the land surface</li>
+      <li>How the relationship between drought and heat evolves under warming</li>
+      <li>Whether vegetation buffers or amplifies the drying effect of warming</li>
+    </ul>
 
   </div>
 </div>
 
-<!-- === Research Item 3 (image left) === -->
+<!-- === Research Item 3 === -->
 <div style="display:flex; align-items:flex-start; margin:24px 0;">
   <img src="/images/coupling_crops.jpg" style="width:200px; border-radius:8px; margin-right:24px;">
-  <div markdown="1">
+  <div>
 
-### **Climate impacts on agriculture and water resources**
-- How changes in precipitation and evaporation characteristics affect the continental water balance  
-- Whether crop carbon-fertilization benefits might offset the impacts of extreme heat and drought  
+    <h3><strong>Climate impacts on agriculture and water resources</strong></h3>
+    <ul>
+      <li>How changes in precipitation and evaporation characteristics affect the continental water balance</li>
+      <li>Whether crop carbon-fertilization benefits might offset the impacts of extreme heat and drought</li>
+    </ul>
 
   </div>
 </div>
 
-</div> <!-- END Research wrapper div -->
+</div>
+
 
 # <a id="people"></a> People
 <div style="background-color:#e6f7f5; padding: 20px;" markdown="1">
