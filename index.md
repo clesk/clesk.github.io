@@ -45,7 +45,7 @@ Our group merges statistical analysis of observational datasets with complex and
     </ul>
   </div>
 </div>
-
+---
 <!-- -------- Item 2: Land-Atmosphere -------- -->
 
 <div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0">  <!--flex-direction:row-reverse;-->
@@ -59,7 +59,7 @@ Our group merges statistical analysis of observational datasets with complex and
       </ul>
   </div>
 </div>
-
+---
 <!-- -------- Item 3: Agriculture -------- -->
 
 <div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0;">
@@ -91,7 +91,7 @@ Our group merges statistical analysis of observational datasets with complex and
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:16px;">
   <img src="/images/mugshot-spruce2.jpg" style="width:210px; border-radius:6px; flex-shrink:0;">
   <div>
-    <h3 style="margin-top:0;">Corey Lesk — Principal Investigator</h3>
+    <h3 style="margin-top:0;">Corey Lesk</h3>
     Corey is an Assistant Professor in Earth and atmospheric science at UQÀM in Montréal (since 2025). Previously, he was a Neukom Institute and Fonds de recherche du Québec Postdoctoral Fellow in the Department of Geography at Dartmouth College. He completed his PhD at Lamont-Doherty Earth Observatory in 2022.
   </div>
 </div>
