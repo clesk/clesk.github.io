@@ -117,12 +117,17 @@ Funding opportunities exist for postdoctoral fellowships.
 
 # Publications
 
-Selected publications (or link to Google Scholar):
+Selected publications:
 
-- **Lesk C.**, *et al.* Publication title here. *Journal*, year.
+- **Lesk, C., Anderson, W., Rigden, A., Coast, O., Jägermeyr, J., McDermid, S., Davis, K. F., & Konar, M.** (2022). *Compound heat and moisture extreme impacts on global crop yields under climate change.* *Nature Reviews Earth & Environment, 3*(12), 872–889. DOI: [10.1038/s43017-022-00368-8](https://doi.org/10.1038/s43017-022-00368-8)
 
-Google Scholar:  
-https://scholar.google.com/citations?user=2mx-kUcAAAAJ
+- **Lesk, C., Coffel, E. D., Winter, J. M., Ray, D. K., Zscheischler, J., Seneviratne, S. I., & Horton, R. M.** (2021). *Stronger temperature–moisture couplings exacerbate the impact of climate warming on global crop yields.* *Nature Food, 2*(9), 683–691. DOI: [10.1038/s43016-021-00341-6](https://doi.org/10.1038/s43016-021-00341-6)
+
+- **Lesk, C., Anderson, W., Weston, E.** (2021). *Decadal variability modulates trends in concurrent heat and drought over global croplands.* *Environmental Research Letters, 16*(5), 055024. DOI: [10.1088/1748-9326/abeb35](https://doi.org/10.1088/1748-9326/abeb35)
+
+- **Lesk, C.S., Winter, J.M., & Mankin, J.S.** (2025). *Projected runoff declines from plant physiological effects on precipitation.* *Nature Water, 3*, 167–177. DOI: [10.1038/s44221-024-00361-z](https://doi.org/10.1038/s44221-024-00361-z)
+
+- **Lesk, C., Rowhani, P., & Ramankutty, N.** (2016). *Influence of extreme weather disasters on global crop production.* *Nature, 529*(7584), 84–87. DOI: [10.1038/nature16467](https://doi.org/10.1038/nature16467)
 
 </div>
 
