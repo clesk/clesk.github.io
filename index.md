@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_image: /images/banner.jpg
   overlay_filter: 0.3
-  caption: "<br><br><br>"
+  caption: ""
   nav: true
   classes: full-height
 ---
@@ -51,13 +51,13 @@ Our group merges statistical analysis of observational datasets with complex and
 <div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0; flex-direction:row-reverse;">
   
   <div style="max-width:480px;">
-    <h3 style="margin-top:0;">Land–atmosphere water and energy exchange</h3>
     <img src="/images/tws-effect-map.jpg" style="width:420px; border-radius:6px; flex-shrink:0;">
-    <ul>
-      <li>How warming alters what happens to precipitation after it reaches the land surface</li>
-      <li>How the relationship between drought and heat evolves under warming</li>
-      <li>Whether vegetation buffers or amplifies the drying effect of warming</li>
-    </ul>
+      <h3 style="margin-top:0;">Land–atmosphere water and energy exchange</h3>
+        <ul>
+          <li>How warming alters what happens to precipitation after it reaches the land surface</li>
+          <li>How the relationship between drought and heat evolves under warming</li>
+          <li>Whether vegetation buffers or amplifies the drying effect of warming</li>
+       </ul>
   </div>
 </div>
 
