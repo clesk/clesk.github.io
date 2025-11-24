@@ -39,7 +39,7 @@ Our group merges statistical analysis of observational datasets with complex and
 
 <div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0;">
   <img src="/images/pint-model.jpg" style="width:360px; border-radius:6px; flex-shrink:0;">
-  <div markdown="1" style="max-width:480px;">
+  <div style="max-width:480px;">
     <h3 style="margin-top:0;">Hydroclimate change</h3>
     <ul>
       <li>How the intensity and intermittency of precipitation events are changing as the climate warms</li>
@@ -53,7 +53,7 @@ Our group merges statistical analysis of observational datasets with complex and
 
 <div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0; flex-direction:row-reverse;">
   <img src="/images/tws-effect-map.jpg" style="width:420px; border-radius:6px; flex-shrink:0;">
-  <div markdown="1" style="max-width:480px;">
+  <div style="max-width:480px;">
     <h3 style="margin-top:0;">Land–atmosphere water and energy exchange</h3>
     <ul>
       <li>How warming alters what happens to precipitation after it reaches the land surface</li>
@@ -67,7 +67,7 @@ Our group merges statistical analysis of observational datasets with complex and
 
 <div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0;">
   <img src="/images/coupling_crops.jpg" style="width:360px; border-radius:6px; flex-shrink:0;">
-  <div markdown="1" style="max-width:480px;">
+  <div style="max-width:480px;">
     <h3 style="margin-top:0;">Climate impacts on agriculture and water resources</h3>
     <ul>
       <li>How changes in precipitation and evaporation characteristics affect the continental water balance</li>
