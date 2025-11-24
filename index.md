@@ -7,6 +7,8 @@ header:
   overlay_filter: 0.45
   caption: ""
   nav: true
+  overlay_header: true
+  overlay_height: 600px
 ---
 
 <a id="home"></a>
@@ -27,7 +29,7 @@ The group is presently growing! Reach out if you're interested in pursuing your 
 <!-- ========================================================= -->
 
 <a id="research"></a>
-<div style="background:#f5f9ff; padding: 36px 28px; border-radius: 8px; margin-bottom: 48px;">
+<div markdown="1" style="background:#f5f9ff; padding: 36px 28px; border-radius: 8px; margin-bottom: 48px;">
 
 # Research
 
@@ -87,7 +89,7 @@ Our group merges statistical analysis of observational datasets with complex and
 <!-- ========================================================= -->
 
 <a id="people"></a>
-<div style="background:#f6fcfa; padding: 36px 28px; border-radius: 8px; margin-bottom:48px;">
+<div markdown="1" style="background:#f6fcfa; padding: 36px 28px; border-radius: 8px; margin-bottom:48px;">
 
 # People
 
@@ -119,7 +121,7 @@ Funding opportunities exist for postdoctoral fellowships.
 <!-- ========================================================= -->
 
 <a id="publications"></a>
-<div style="background:#faf8ff; padding: 36px 28px; border-radius: 8px; margin-bottom:48px;">
+<div markdown="1" style="background:#faf8ff; padding: 36px 28px; border-radius: 8px; margin-bottom:48px;">
 
 # Publications
 
@@ -141,7 +143,7 @@ https://scholar.google.com/citations?user=2mx-kUcAAAAJ
 <!-- ========================================================= -->
 
 <a id="contact"></a>
-<div style="background:#f6fcfa; padding: 36px 28px; border-radius: 8px;">
+<div markdown="1" style="background:#f6fcfa; padding: 36px 28px; border-radius: 8px;">
 
 # Contact
 
