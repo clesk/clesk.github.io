@@ -48,7 +48,7 @@ Our group merges statistical analysis of observational datasets with complex and
 
 <!-- -------- Item 2: Land-Atmosphere -------- -->
 
-<div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0; flex-direction:row-reverse;">
+<div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0">  <!--flex-direction:row-reverse;-->
   <img src="/images/tws-effect-map.jpg" style="width:420px; border-radius:6px; flex-shrink:0;">
   <div style="max-width:480px;">
     <h3 style="margin-top:0;">Land–atmosphere water and energy exchange</h3>
