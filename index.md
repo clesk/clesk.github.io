@@ -8,19 +8,18 @@ header:
   caption: ""
   nav: true
   overlay_header: true
-  overlay_height: 9000px
+  overlay_container: "<div style='padding:180px 0;'></div>"
 ---
 
 <a id="home"></a>
 
-We study how climate change interacts with the terrestrial systems that underpin human thriving.
+We study how climate change interacts with the terrestrial systems that underpin human thriving. 
 
 ### Interested in climate impacts research?
 The group is presently growing! Reach out if you're interested in joining the group as a Bachelors, Masters or PhD student.
 
 ---
 
-<br>
 
 <!-- ========================================================= -->
 <!-- ====================== RESEARCH ========================= -->
