@@ -136,7 +136,7 @@ Selected publications:
 <!-- ========================================================= -->
 
 <a id="contact"></a>
-<div style="background-color:#e6f7f5; padding: 20px; display:flex; align-items:center; justify-content:space-between;">
+<div style="padding: 20px; display:flex; align-items:center; justify-content:space-between;">
 
 <!-- Contact Info -->
 <div>
@@ -153,7 +153,7 @@ Scholar: <a href="https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&o
 
 <!-- Logo -->
 <div>
-<img src="/images/logo.png" alt="Lab Logo" style="height:80px;">
+<img src="/images/uqam-logo.jpg" alt="" style="height:80px;">
 </div>
 
 </div>
