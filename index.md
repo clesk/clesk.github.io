@@ -93,7 +93,7 @@ Our group merges statistical analysis of observational datasets with complex and
   <img src="/images/mugshot-spruce2.jpg" style="width:210px; border-radius:6px; flex-shrink:0;">
   <div>
     <h3 style="margin-top:0;">Corey Lesk — Principal Investigator</h3>
-    Corey is an Assistant Professor in Earth and atmospheric science at UQAM
+    Corey is an Assistant Professor in Earth and atmospheric science at UQÀM in Montréal (since 2025). Previously, he was a Neukom Institute and Fonds de recherche du Québec Postdoctoral Fellow in the Department of Geography at Dartmouth College. He completed his PhD at Lamont-Doherty Earth Observatory in 2022.
   </div>
 </div>
 
@@ -101,8 +101,7 @@ Our group merges statistical analysis of observational datasets with complex and
 
 ### Students & Postdocs — We’re recruiting!
 If you’re interested in joining the group, please reach out!  
-Positions are available for undergraduate research assistants, Masters and PhD students.  
-Funding opportunities exist for postdoctoral fellowships.
+Positions are available for undergraduate research assistants and Masters and PhD students.  
 
 </div>
 
@@ -149,6 +148,11 @@ Pavillon Président-Kennedy
 Montréal, QC  
 
 Email: <lesk.corey@uqam.ca>  
-GitHub: https://github.com/clesk
+GitHub: <https://github.com/clesk>
+Scholar: <https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao>
 
+<br><br>
+
+<!-- Logo -->
+<img src="/images/uqam-logo.jpg" alt="Lab Logo" style="height:60px; vertical-align:middle;">
 </div>

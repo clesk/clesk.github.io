@@ -32,8 +32,8 @@ defaults:
 navigation: navigation.yml
 
 header:
-  font: "Helvetica"  # Change this to the font you prefer (e.g., "Open Sans", "Lora", etc.)
+  font-family: "Helvetica, Arial, sans-serif;"  # Change this to the font you prefer (e.g., "Open Sans", "Lora", etc.)
 
 
 body:
-  font: "Helvetica"  # Change this to your desired body font
+  font-family: "Helvetica, Arial, sans-serif;"  # Change this to your desired body font
