@@ -49,15 +49,14 @@ Our group merges statistical analysis of observational datasets with complex and
 <!-- -------- Item 2: Land-Atmosphere -------- -->
 
 <div style="display:flex; gap:32px; align-items:flex-start; margin:40px 0; flex-direction:row-reverse;">
-  
+  <img src="/images/tws-effect-map.jpg" style="width:420px; border-radius:6px; flex-shrink:0;">
   <div style="max-width:480px;">
-    <img src="/images/tws-effect-map.jpg" style="width:420px; border-radius:6px; flex-shrink:0;">
-      <h3 style="margin-top:0;">Land–atmosphere water and energy exchange</h3>
-        <ul>
-          <li>How warming alters what happens to precipitation after it reaches the land surface</li>
-          <li>How the relationship between drought and heat evolves under warming</li>
-          <li>Whether vegetation buffers or amplifies the drying effect of warming</li>
-       </ul>
+    <h3 style="margin-top:0;">Land–atmosphere water and energy exchange</h3>
+      <ul>
+        <li>How warming alters what happens to precipitation after it reaches the land surface</li>
+        <li>How the relationship between drought and heat evolves under warming</li>
+        <li>Whether vegetation buffers or amplifies the drying effect of warming</li>
+      </ul>
   </div>
 </div>
 
@@ -147,11 +146,9 @@ Université du Québec à Montréal
 Pavillon Président-Kennedy  
 Montréal, QC  
 
-Email: <lesk.corey@uqam.ca>  
-GitHub: <https://github.com/clesk>
-Scholar: <https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao>
-
-<br><br>
+Email: lesk[dot]corey[at]@uqam.ca 
+GitHub: [GitHub] (https://github.com/clesk)
+Scholar: [Scholar] (https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao)
 
 <!-- Logo -->
 <img src="/images/uqam-logo.jpg" alt="Lab Logo" style="height:60px; vertical-align:middle;">
