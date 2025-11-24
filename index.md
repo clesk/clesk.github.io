@@ -12,7 +12,7 @@ header:
 
 Welcome to the Climate Change & Impacts Lab.  
 We study how climate change interacts with the terrestrial systems that underpin human thriving.
- 
+
 The group is presently growing! Feel free to reach out if you're interested in pursuing your Masters or PhD in the group.
 
 <div style="background-color:#e7f3ff; padding: 24px; border-radius: 8px;" markdown="1">
@@ -59,7 +59,7 @@ Our group merges statistical analysis of observational datasets with complex and
   </div>
 </div>
 
-</div>
+</div> <!-- END Research wrapper div -->
 
 # <a id="people"></a> People
 <div style="background-color:#e6f7f5; padding: 20px;" markdown="1">
@@ -86,12 +86,11 @@ Selected publications (or link to Google Scholar):
 
 - **Lesk C.**, *et al.* Publication title here. *Journal*, year.
 
-
 Or link directly:
 
 ➡️ **
-</div>
 
+</div>
 
 ---
 
@@ -99,12 +98,10 @@ Or link directly:
 <div style="background-color:#e6f7f5; padding: 20px;" markdown="1">
 
 **Corey Lesk**  
-Department of Earth and atmospheric science
-Université du Québec à Montréal
-Pavillon Président-Kennedy
-Montréal, QC
+Department of Earth and atmospheric science  
+Université du Québec à Montréal  
+Pavillon Président-Kennedy  
+Montréal, QC  
 
 Email: <lesk.corey@uqam.ca>  
-Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao)**
-GitHub: [github.com/coreylesk](https://github.com/clesk)  
-</div>
+Google Scholar: [Google Scholar](https://scholar.google)
