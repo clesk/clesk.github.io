@@ -1,4 +1,4 @@
-title: "Climate Change & Impacts Lab"
+title: "Climate Change & Impacts @ UQAM"
 description: "Research group studying climate–land–water interactions in a warming world."
 url: "https://coreylesk.github.io"
 
@@ -32,7 +32,8 @@ defaults:
 navigation: navigation.yml
 
 header:
-  font: "Open Sans"  # Change this to the font you prefer (e.g., "Open Sans", "Lora", etc.)
+  font: "Helvetica"  # Change this to the font you prefer (e.g., "Open Sans", "Lora", etc.)
+
 
 body:
-  font: "Open Sans"  # Change this to your desired body font
+  font: "Helvetica"  # Change this to your desired body font
