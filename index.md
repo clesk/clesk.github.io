@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_image: /images/banner.jpg
   overlay_filter: 0.3
-  caption: "caption"
+  caption: "<br><br><br>"
   nav: true
   classes: full-height
 ---
