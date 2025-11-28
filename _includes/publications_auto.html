@@ -1,0 +1,182 @@
+<!-- Services Section -->
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    <section id="papers">
+        <div class="container">
+            <div class="row">
+              <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Publications</h2>
+                <strong> <strong>	&diams; </strong> denotes research led by the Climate Modeling & Impacts Group</strong><br> <u>Underlined</u> are: PI-advised (P)<u>ostdoc</u>, (G)<u>rad student</u>, (U)<u>ndergrad</u>
+                <h3 class="section-subheading text-muted"></h3>
+              </div>
+            </div>
+            <div class="row">
+                <h3 class="section-heading">Submitted or in revision</h3>
+                <br>
+                  <div class="row research-topic">
+                        <div class="col-lg-12">
+                          <ol reversed="">
+                           {% for paper in site.data.submitted-papers %}
+                            <li>
+                              {{ paper.authors }}
+                              {{ paper.title }}
+                              <i>{{ paper.status }}</i>
+                              |
+                              {% if paper.link %}
+                                <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
+                                  <br><br>
+                                </a>
+                              {% else %}
+                                <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
+                                <br><br>
+                              {% endif %}
+                            </li>
+                          {% endfor %}
+                          </ol>
+                        </div>
+                      </div>
+                    </div>
+              <div class="row">
+              <h3 class="section-heading">Peer-reviewed journal articles</h3>
+              <br>
+                <div class="row research-topic">
+                  <div class="col-lg-12">
+                    <ol reversed="">
+                    {% for paper in site.data.published-papers %}
+                    	<li>
+                        <div class='layout--p-b-10'>
+                          {{ paper.authors }}
+                          <b>({{ paper.year }})</b>.
+                      		{{ paper.title }},
+                      		{% if paper.journalLink %}
+                      			<a class="text-muted" href={{ paper.journalLink }} target='_blank'>
+                      				<i>{{ paper.journal }}</i>,
+                      			</a>
+                      		{% else %}
+                      			<i>{{ paper.journal }}</i>
+                      		{% endif %}
+
+                      		{{ paper.DOI }}
+                      		|
+                          {% if paper.link %}
+                            <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
+                      		{% else %}
+                            <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
+                      		{% endif %}
+                          | 
+                          {% if paper.code %}
+                          <a class="text-muted" href={{ paper.code }} target='_blank'>Replication Code</a>                    
+                        {% endif %}
+                          <br>
+                          {% if paper.altmetric %}
+                          <a class="altmetric-embed" data-badge-popover="right" data-badge-type="2" data-doi={{paper.altmetric}} data-hide-no-mentions="false"></a>
+                          {% endif %}
+
+                          {% if paper.DOI %}
+                          <a class="__dimensions_badge_embed__" data-doi="{{paper.DOI}}" data-hide-zero-citations="false" data-style="small_rectangle"></a>
+                          {% endif %}
+                        </div>
+                        {% if paper.press %}
+                          <div class='layout--p-b-30 layout--m-l-20'>
+                            <strong>See media coverage in:  </strong>
+                            {% for item in site.data[paper.press] %}
+                              <a href={{item.pressLink}} target='_blank' class='layout--p-r-10'>{{ item.press }}</a>
+                            {% endfor %}
+                          </div>
+                        {% else %}
+                          <div class="layout--p-b-20"></div>
+                        {% endif %}
+                    	</li>
+                      {% endfor %}
+                    </ol>
+                  </div>
+                </div>
+              <div class="row">
+              <h3 class="section-heading">Peer-reviewed book chapters</h3>
+ 
+              <br>
+				        <div class="row research-topic">
+                  <div class="col-lg-12">
+                    <ol reversed="">
+                     {% for paper in site.data.book-chapters %}
+                    	<li>
+                    		{{ paper.authors }}
+                        <b>({{ paper.year }})</b>.
+                        {{ paper.title }},
+                        {% if paper.bookLink %}
+                          <a class="text-muted" href={{ paper.bookLink }} target='_blank'>
+                            <i>{{ paper.book }}</i>
+                          </a>
+                        {% else %}
+                          <i>{{ paper.book }}</i>
+                        {% endif %}
+                        ,
+                        {{ paper.DOI }}
+                        |
+                        {% if paper.link %}
+                          <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
+                        {% else %}
+                          <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
+                        {% endif %}
+                      </div>
+                        <div class="layout--p-b-20"></div>
+                      {% endfor %}
+                  </ol>
+                </div>
+              </div>
+            </div>
+              <div class="row">
+                <br>
+                <h3 class="section-heading">Other writing</h3>
+                <br>
+                  <div class="row research-topic">
+                    <div class="col-lg-12">
+                      <ol reversed="">
+                      {% for paper in site.data.other-pubs %}
+                        <li>
+                          <div class='layout--p-b-10'>
+                            {{ paper.authors }},
+                            <b>({{ paper.year }})</b>.
+                            {{ paper.title }},
+                            {% if paper.journalLink %}
+                              <a class="text-muted" href={{ paper.journalLink }} target='_blank'>
+                                <i>{{ paper.journal }}</i>
+                              </a>
+                            {% else %}
+                              <i>{{ paper.journal }}</i>
+                            {% endif %}
+
+                            {{ paper.DOI }}
+
+                            {% if paper.link %}
+                             <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
+                            {% else %}
+                              <!-- <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a> -->
+                            {% endif %}
+                            <br>
+                            {% if paper.altmetric %}
+                            <a class="altmetric-embed" data-badge-popover="right" data-badge-type="2" data-doi={{paper.altmetric}} data-hide-no-mentions="false"></a>
+                            {% endif %}
+
+                            {% if paper.DOI %}
+                            <a class="__dimensions_badge_embed__" data-doi="{{paper.DOI}}" data-hide-zero-citations="false" data-style="small_rectangle"></a>
+                            {% endif %}
+                          </div>
+                          {% if paper.press %}
+                            <div class='layout--p-b-30 layout--m-l-20'>
+                              <strong>See media coverage in:  </strong>
+                              {% for item in site.data[paper.press] %}
+                                <a href={{item.pressLink}} target='_blank' class='layout--p-r-10'>{{ item.press }}</a>
+                              {% endfor %}
+                            </div>
+                          {% else %}
+                            <div class="layout--p-b-20"></div>
+                          {% endif %}
+                        </li>
+                        {% endfor %}
+                      </ol>
+                    </div>
+                  </div>
+                <div class="row">
+            </div>
+        </div>
+    </section>

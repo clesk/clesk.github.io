@@ -1,0 +1,21 @@
+- name: Hydroclimate change
+  description: "How the intensity and intermittency of precipitation events are changing as the climate warms;
+    the physics underlying these changes; and 
+    whether climate models simulate these processes accurately."
+  imgSrc: "img/research/pint-model.png"
+  columns: "col-md-4"
+  columns2: "col-md-6 .col-md-offset-2"
+- name: Land–atmosphere water and energy exchange
+  description: "How warming alters what happens to precipitation after it reaches the land surface; 
+    how the relationship between drought and heat evolves under warming; and 
+    whether vegetation buffers or amplifies the drying effect of warming."
+  imgSrc: "img/research/tws-effect-map.jpg"
+  columns: "col-md-4"
+  columns2: "col-lg-6 .col-md-offset-2"
+- name: Climate impacts on agriculture and water resources
+  description: "How changes in precipitation and evaporation characteristics affect the continental water balance; and
+    whether crop carbon-fertilization benefits might offset the impacts of extreme heat and drought"
+  imgSrc: "img/research/coupling_crops.jpg"
+  columns: "col-md-4"
+  columns2: "col-lg-6 .col-md-offset-2"
+
